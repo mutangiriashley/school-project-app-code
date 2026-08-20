@@ -28,7 +28,7 @@
 
 ## My Default Test Account
 
-I made the application come pre-seeded with a default user account for testing the login flow immediately, but you can register if you want
+I made the application come pre-seeded with my default user account for testing the login flow immediately, but you can all register if you want
 * **Email:** `ashleymutangiri@gmail.com`
 * **Password:** `12345`
 
